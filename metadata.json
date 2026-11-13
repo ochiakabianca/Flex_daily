@@ -1,0 +1,6 @@
+{
+  "name": "Supple",
+  "description": "Guided daily stretching routines, flexibility progress tracking, and consistency appreciation to build a lasting mobility practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
