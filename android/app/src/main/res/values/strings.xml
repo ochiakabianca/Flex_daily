@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Supple</string>
+    <string name="title_activity_main">Supple</string>
+    <string name="package_name">com.supple.mobility</string>
+    <string name="custom_url_scheme">com.supple.mobility</string>
+</resources>

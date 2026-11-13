@@ -1,0 +1,9 @@
+{
+	"appId": "com.supple.mobility",
+	"appName": "Supple",
+	"webDir": "dist",
+	"android": {
+		"allowMixedContent": false,
+		"backgroundColor": "#F7F9FA"
+	}
+}
